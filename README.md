@@ -1,12 +1,12 @@
 # Disclaimer
 Disclaimer
 
-Ethical Hacker CEH 
-CYBERSECURITY 504
-Networking
-webdeveloper
-1000 subscribers
-Disclaimer -
+* Ethical Hacker CEH 
+* CYBERSECURITY 504
+* Networking
+* webdeveloper
+* 1000 subscribers
+### Disclaimer -
 
 video is for educational purpose only.Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
 #Ethical​hacking ​
@@ -29,7 +29,7 @@ Thanks
 ▶ Videos On Cyber Security & Technology.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Disclaimer -
+### Disclaimer -
 
 video is for educational purpose only.Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
 #Ethical​hacking 
@@ -45,7 +45,7 @@ LIKE | SUBSCRIBE | SHARE | COMMENTS
 
 
 Demonstration guide for educational purposes. 
-Attacking a system is CRIME AND PURNISHABLE BY LAW.
+Attacking a system is _CRIME AND PURNISHABLE BY LAW_.
 
 Hi guys subscribe to my channel and every day you shall have a video or two when available.
 And thanks for your participation. :) :)
